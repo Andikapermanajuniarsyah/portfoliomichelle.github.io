@@ -1,0 +1,61 @@
+nav {
+    background-color: #ffc0cb;
+}
+
+.jumbotron {
+    padding: 2rem;
+}
+
+.about {
+    background-color: #ffc0cb;
+    color: black;
+}
+
+.card {
+    background-color: #ffc0cb;
+    transition: 1.3s;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+#experience {
+    background-color: #ffc0cb;
+    padding: 2rem;
+}
+
+.color .card {
+    background-color: white;
+}
+
+.form-control {
+    border: 2px solid #ffc0cb !important;
+}
+
+.form-control:focus {
+    border-color: #ffc0cb;
+    box-shadow: 0 0 5px #ffc0cb;
+}
+
+.btn {
+    background-color: #ffc0cb;
+    border: none;
+}
+
+footer {
+    padding: 5rem;
+    background-color: #ffc0cb;
+    list-style-type: none;
+}
+
+footer ul {
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+    padding: 0;
+}
+
+footer ul li {
+    padding: 15px;
+}
